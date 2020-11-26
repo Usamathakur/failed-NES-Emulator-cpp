@@ -1,0 +1,20 @@
+﻿  Bus.cpp
+C:\Users\HP\source\repos\NESEMULATOR\NESEMULATOR\olc2C02.h(22,37): error C2280: 'olc::Sprite::Sprite(const olc::Sprite &)': attempting to reference a deleted function
+C:\Users\HP\source\repos\NESEMULATOR\NESEMULATOR\olcPixelGameEngine.h(572): message : see declaration of 'olc::Sprite::Sprite'
+C:\Users\HP\source\repos\NESEMULATOR\NESEMULATOR\olcPixelGameEngine.h(572,3): message : 'olc::Sprite::Sprite(const olc::Sprite &)': function was explicitly deleted
+  Cartridge.cpp
+  main.cpp
+C:\Users\HP\source\repos\NESEMULATOR\NESEMULATOR\olc2C02.h(22,37): error C2280: 'olc::Sprite::Sprite(const olc::Sprite &)': attempting to reference a deleted function
+C:\Users\HP\source\repos\NESEMULATOR\NESEMULATOR\olcPixelGameEngine.h(572): message : see declaration of 'olc::Sprite::Sprite'
+C:\Users\HP\source\repos\NESEMULATOR\NESEMULATOR\olcPixelGameEngine.h(572,3): message : 'olc::Sprite::Sprite(const olc::Sprite &)': function was explicitly deleted
+  Mapper.cpp
+  Mapper_000.cpp
+  olc2C02.cpp
+C:\Users\HP\source\repos\NESEMULATOR\NESEMULATOR\olc2C02.h(22,37): error C2280: 'olc::Sprite::Sprite(const olc::Sprite &)': attempting to reference a deleted function
+C:\Users\HP\source\repos\NESEMULATOR\NESEMULATOR\olcPixelGameEngine.h(572): message : see declaration of 'olc::Sprite::Sprite'
+C:\Users\HP\source\repos\NESEMULATOR\NESEMULATOR\olcPixelGameEngine.h(572,3): message : 'olc::Sprite::Sprite(const olc::Sprite &)': function was explicitly deleted
+  olc6502.cpp
+C:\Users\HP\source\repos\NESEMULATOR\NESEMULATOR\olc2C02.h(22,37): error C2280: 'olc::Sprite::Sprite(const olc::Sprite &)': attempting to reference a deleted function
+C:\Users\HP\source\repos\NESEMULATOR\NESEMULATOR\olcPixelGameEngine.h(572): message : see declaration of 'olc::Sprite::Sprite'
+C:\Users\HP\source\repos\NESEMULATOR\NESEMULATOR\olcPixelGameEngine.h(572,3): message : 'olc::Sprite::Sprite(const olc::Sprite &)': function was explicitly deleted
+  Generating Code...
